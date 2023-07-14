@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\proyecto.net\proyecto.net\proyecto.net\obj\Debug\net6.0\proyecto.net.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\proyecto.net\proyecto.net\proyecto.net\obj\Debug\net6.0\proyecto.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\proyecto.net\proyecto.net\proyecto.net\obj\Debug\net6.0\proyecto.net.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\proyecto.net\proyecto.net\proyecto.net\obj\Debug\net6.0\proyecto.net.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\proyecto.net\proyecto.net\proyecto.net\obj\Debug\net6.0\proyecto.net.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\proyecto.net\proyecto.net\proyecto.net\bin\Debug\net6.0\proyecto.net.exe
+C:\Users\Usuario\Desktop\proyecto.net\proyecto.net\proyecto.net\bin\Debug\net6.0\proyecto.net.deps.json
+C:\Users\Usuario\Desktop\proyecto.net\proyecto.net\proyecto.net\bin\Debug\net6.0\proyecto.net.runtimeconfig.json
+C:\Users\Usuario\Desktop\proyecto.net\proyecto.net\proyecto.net\bin\Debug\net6.0\proyecto.net.dll
+C:\Users\Usuario\Desktop\proyecto.net\proyecto.net\proyecto.net\bin\Debug\net6.0\proyecto.net.pdb
+C:\Users\Usuario\Desktop\proyecto.net\proyecto.net\proyecto.net\obj\Debug\net6.0\proyecto.net.dll
+C:\Users\Usuario\Desktop\proyecto.net\proyecto.net\proyecto.net\obj\Debug\net6.0\refint\proyecto.net.dll
+C:\Users\Usuario\Desktop\proyecto.net\proyecto.net\proyecto.net\obj\Debug\net6.0\proyecto.net.pdb
+C:\Users\Usuario\Desktop\proyecto.net\proyecto.net\proyecto.net\obj\Debug\net6.0\proyecto.net.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\proyecto.net\proyecto.net\proyecto.net\obj\Debug\net6.0\ref\proyecto.net.dll
